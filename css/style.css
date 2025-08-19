@@ -1,0 +1,12 @@
+.purple-code {
+  color: #800080;       /* purple text */
+  background: #f8f8f8;  /* light background (optional) */
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 0.95em;
+}
+.contact-main {
+  font-size: 1.2rem;   /* adjust as needed */
+  line-height: 1.6;
+}
